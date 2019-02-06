@@ -1,0 +1,9 @@
+total 16
+-rw-r--r-- 1 ttn ttn    0 Feb  5 14:03 abcd
+-rw-r--r-- 1 ttn ttn    0 Feb  5 14:04 abcd.txt
+-rw-r--r-- 1 ttn ttn   63 Feb  5 14:16 abc.txt
+drwxr-xr-x 2 ttn ttn 4096 Feb  5 15:51 Assignments
+-rw-r--r-- 1 ttn ttn    0 Feb  5 14:16 b.txt
+-rw-r--r-- 1 ttn ttn    9 Feb  5 15:51 c.txt
+-rw-r--r-- 1 ttn ttn    0 Feb  6 16:16 file11
+-rw-r--r-- 1 ttn ttn    5 Feb  5 15:51 t
