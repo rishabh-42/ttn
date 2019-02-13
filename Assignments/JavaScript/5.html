@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<script type="text/javascript">
+		var data = [
+
+			{
+				"name":"Rishabh",
+			"age":21,
+			"salary":15100,
+			"DOB":"23-09-1997"
+			},
+			{
+			"name":"Vagish",
+			"age":24,
+			"salary":15100,
+			"DOB":"23-10-1994"
+			},
+
+			{
+			"name":"Siddartha",
+			"age":24,
+			"salary":1510,
+			"DOB":"5-06-1994"
+			},
+
+			{
+			"name":"Yukti",
+			"age":30,
+			"salary":500,
+			"DOB":"23-10-1987"
+			},
+
+			{
+			"name":"Surbhi",
+			"age":24,
+			"salary":1600,
+			"DOB":"03-11-1993"
+			}
+
+
+
+		];
+		filtered_data= [];;
+		filtered = filtr(data);
+			
+		function filtr(data) {
+		//function for filtering data
+		for(var item in data)
+				{
+				//adding element to filtee_data whose salary is greater than 5000
+					if(data[item].salary>5000)
+					{
+						filtered_data.push(data[item]);
+					}
+			
+				}
+			}
+
+		// Filtering data whose salary is grater is 5000
+		console.log("Data is : ")
+		console.log( data);
+		//salary grater tha
+		console.log(" Filtered Data whose salary is GREATER than 5000 : ");
+		console.log(filtered_data);
+
+		
+			console.log("================================================");
+
+		//Grouping data according to their ages
+			
+				let fdata = {};
+				for(let i=0;i<100;i++)
+				{
+					fdata[i]=data.filter((obj)=>obj.age===i);
+				}
+				
+
+				console.log("Grouping by age")
+				for(let i=0 ;i<100;i++)
+				{
+					if(fdata[i].length>0)
+					{
+						console.log("Employee by age group : " + i);
+						console.log(fdata[i]);
+					}
+				}
+				
+
+
+
+
+						
+
+					
+
+
+	console.log("================================================");
+
+		//function for filtering data 	for salary less than 1000 & age >20
+		filtered_data_with_age = [];
+		for(var item in data)
+				{
+				//adding element to filtee_data whose salary is greater than 5000
+					if(data[item].salary<1000 && data[item].age>20)
+					{
+						filtered_data_with_age.push(data[item]);
+					}
+			
+				}
+					console.log(" Filtered Data whose salary is less than 1000 and age is greater than 20 : ")
+				console.log(filtered_data_with_age);
+			
+
+	</script>
+<body>
+
+</body>
+</html>

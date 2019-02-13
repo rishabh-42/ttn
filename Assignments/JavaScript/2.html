@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> JavaScript Assignment</title>
+
+</head>
+<body>
+	<input type="text" placeholder=" Enter String" id="string" autocomplete="off">
+	<button onclick="check();">Check Palindrome</button>
+	<p id="result"></p>
+
+<script type="text/javascript">
+function check() {
+
+	var str = document.getElementById("string").value;
+	var revStr = str.split("").reverse().join("");
+
+
+	if(str==revStr)
+	{
+		document.getElementById("result").innerHTML = "Reverse String is : " + revStr+ "<br>" +"String is Palindrome";
+		// body...
+	}
+	else
+	{
+		document.getElementById("result").innerHTML = "Reverse String is : " + revStr+ "<br>" +"String is Not Palindrome";
+	}
+	}
+	
+	</script>
+	</body>
+	</html>

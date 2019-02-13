@@ -1,0 +1,53 @@
+	<!DOCTYPE html>
+	<html>
+	<head>
+		 <meta charset="UTF-8"> 
+	<title> JavaScript Assignment</title>
+
+	</head>
+	<body>
+		<button onclick="copy();">Start Copying</button> 
+	</body>
+	<script type="text/javascript">
+	var obj2 = {}; // blank object
+	console.log(obj2);
+		var obj1  = [
+				{
+					"fName":"Rishabh",
+					"lname":"Rajput",
+					"age":21
+
+				},
+				{
+					"fName":"Vagish",
+					"lname": "Dixit",
+					"age":24
+
+				},
+				{
+					"fName":"Yukti",
+					"lname": "Sharma",
+					"age":50
+
+				}
+
+		];
+		
+		function copy(obj1,obj2){
+		
+	
+		console.log("Copy Started  :" );
+		
+		
+		for(item in obj1)
+		{
+			obj2[item]=obj1[item];
+		}
+
+		console.log(obj1);
+		console.log(obj2);
+
+}
+copy(obj1,obj2);
+	</script>
+	</html>
