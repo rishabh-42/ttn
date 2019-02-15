@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script>
+        
+        $(document).ready(function ()
+        {
+        console.log("Hello world !!");
+        
+        $("#click").on("click ", function()
+        {
+            
+             var node = $("<input>", {type : "submit" , title : "click",value : "Click to COPY"});
+        
+            // var b = $("input").get(0);
+            // console.log(b);
+            // b.id ='new id';
+            $("div").append(node);
+            
+            // this line can be ommited by adding this property in line 15
+            $("div input:not(:first-child").attr('class','new-button');
+        
+        });
+
+        $("div").on("click", ".new-button",function(e)
+        {
+        
+            var node = $("<input>", {type : "submit" , title : "click",value : "Click to COPY"});
+        
+     
+        $("div").append(node);
+        $("div input:not(:first-child").attr('class','new-button');
+        
+        
+        });
+    });
+        </script>
+</head>
+<body>
+<div>
+    <input id ="click" type="submit" title="click" value="Click To COPY" > 
+</div>
+
+</body>
+</html>
+    
+

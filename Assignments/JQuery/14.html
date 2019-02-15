@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+<body>
+<table border="1">
+    <tr>
+        <td>
+            5
+        </td>
+        <td>
+            25
+        </td>
+        <td>
+                15
+            </td>
+            <td>
+                    6
+                </td>
+
+    </tr>
+    <tr>
+            <td>
+                6
+            </td>
+            <td>
+                5
+            </td>
+            <td>
+                    15
+                </td>
+                <td>
+                        9
+                    </td>
+    
+        </tr>
+</table>
+
+</body>
+
+</html>
+    
+<script>
+        
+        $(document).ready(function ()
+        {
+        console.log("Hello world !!");
+        $("table td").each(function(index){
+            if(parseInt($(this).text())<10)
+            {
+                $(this).css('background-color','red');
+            }
+
+        });
+        });
+</script>

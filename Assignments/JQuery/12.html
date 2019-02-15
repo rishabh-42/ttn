@@ -1,0 +1,44 @@
+!<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+   <script>
+   
+   $(document).ready(function() {
+
+    $(".li-class").on('click',function(e){
+    console.log("li");
+    e.stopPropagation();
+}   
+
+);
+    $("#div-parent").on('click  ',function(e){
+console.log("div");
+    }
+
+   );
+   });
+   
+   </script>
+
+
+
+
+</head>
+
+<body>
+
+    <div id="div-parent" >Div text !!
+        <li class="li-class">1st</li>
+        <li class="li-class">2nd</li>
+    </div >
+    
+</body>
+
+</html>

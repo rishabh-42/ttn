@@ -1,0 +1,49 @@
+!<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <div>
+       <p  style="height: 50px"> 50px</p>
+       <p style="height: 90px"> 90px</p>
+       <p style="height: 80px"> 80px</p>
+       <p style="height: 70px"> 70px</p>
+       <p style="height: 60px"> 60px</p>
+    </div>
+    
+</body>
+</html>
+
+
+<script>
+        $(document).ready(function () {
+          
+            var max=0;
+            $("p").each(function(index){
+                if($(this).height() > max)
+                {
+                    max= $(this).height();
+                }
+               
+            }   
+
+            
+            );
+            console.log("Maximum Height is : " + max);
+            
+            });
+
+        
+        
+        
+        
+</script>
