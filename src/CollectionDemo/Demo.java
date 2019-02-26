@@ -1,5 +1,7 @@
 package CollectionDemo;
 
+import java.sql.SQLOutput;
+import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class Demo {
@@ -55,7 +57,32 @@ public class Demo {
             System.out.println("Employee name is : " + iterator.next().EId);
         }
 
+        Set<String> set = new HashSet<>();
+
+        set.add("Rishabh");
+        set.add("Rajput");
+        set.add("Rishabh");
+
+        set.contains("Rishabh");
+        System.out.println(set.contains("Rishabh"));
+
+        Calendar cld = Calendar.getInstance();
+
+        cld.set(Calendar.YEAR,2017);
+        cld.set(Calendar.MONTH,9);
+        cld.set(Calendar.DATE,22);
+
+        cld.set(Calendar.HOUR,3);
+        cld.set(Calendar.MINUTE,40);
+        cld.set(Calendar.SECOND,50);
+
+        SimpleDateFormat date = new SimpleDateFormat("dd-YYYY-MM hh:mm:ss");
+
+        System.out.println(date.format(cld.getTime()));
+
     }
+
 }
+
 
 

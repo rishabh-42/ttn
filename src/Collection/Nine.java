@@ -1,4 +1,4 @@
-package CollectionDemo;
+package Collection;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
