@@ -18,7 +18,7 @@ public class Second {
         Map<String, Integer> count = wordCount(str);
 
         for (String s : count.keySet()) {
-            System.out.println("Word '" + s + "' occurred " + count.get(s) + " times.\n");
+            System.out.format("Word  {} occurred {} times.\n", s,count.get(s));
         }
 
 

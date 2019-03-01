@@ -8,7 +8,7 @@ public class Six {
             int i =0;
             int y = 10/i;
         }
-        catch (Exception e)
+        catch (NumberFormatException | NullPointerException e )
         {
             e.printStackTrace();
         }

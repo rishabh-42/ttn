@@ -67,6 +67,7 @@ public class SpecialStack {
 
     }
     int peek(){
+
         return stackArray[top];
 
 

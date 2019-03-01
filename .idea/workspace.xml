@@ -2,55 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="302aefa2-e409-4213-8df8-a4a08a231a37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java2/Barista/Barista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Barista/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Barista/CoffeeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Barista/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Barista/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/CustomException/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/CustomException/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Eight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Fifth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/FourSingelton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Fourth/Four1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Furniture/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Furniture/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Furniture/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Furniture/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/LibraryMS/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/LibraryMS/LMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/LibraryMS/Librarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/LibraryMS/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/LibraryMS/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/LibraryMS/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Seven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Six.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java2/ThirdTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/One/ImplementsRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/One/ThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Play/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Play/TestJoinMethod2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Play/souvik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Third.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Assignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignments/Collection/.~lock.CollectionAndDateAssignment.docx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/First/CollectionDemo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/CollectionDemo/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/First/Third.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Eight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/FifthAnswer/Fifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/FifthAnswer/Fifth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/FourthAnswer/Fourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/FourthAnswer/Fourth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Nine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Second.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Sixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Sixth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/SpecialStack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/SpecialStack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/SpecialStack/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/SpecialStack/SpecialStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Third.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDemo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaII/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaII/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignments/Collection/SpecialStack/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Collection/SpecialStack/SpecialStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/HousePrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/HousePrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Java2/CustomException/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Java2/CustomException/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Java2/Six.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Java2/Six.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Nine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Nine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Second.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Second.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/First/Seven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First/Seven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HousePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HousePrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java2/CustomException/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java2/CustomException/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java2/CustomException/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java2/CustomException/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java2/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java2/Six.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seven.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,25 +42,27 @@
     <session id="1211309195">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.78" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14747" />
+          <entry key="JAVA" value="19227" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="157" />
+          <entry key="JAVA" value="201" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -95,142 +76,126 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Nine.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Five.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="209">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Tenth.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Six.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="7" column="5" selection-end-line="42" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Eleven.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Seven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Twelve.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Eight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="285">
+              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding>
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-                <element signature="e#1214#1215#0" expanded="true" />
+                <element signature="e#73#74#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Thirteen.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Nine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1116#1117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Fourteen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="68" column="25" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="25" />
-              <folding>
-                <element signature="e#1608#1609#0" expanded="true" />
-                <element signature="e#1662#1663#0" expanded="true" />
-                <element signature="e#1788#1789#0" expanded="true" />
-                <element signature="e#1842#1843#0" expanded="true" />
-                <element signature="e#1968#1969#0" expanded="true" />
-                <element signature="e#2022#2023#0" expanded="true" />
-                <element signature="e#2148#2149#0" expanded="true" />
-                <element signature="e#2202#2203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Fifteen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+            <state relative-caret-position="210">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1276#1277#0" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1465#1466#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Multithreading/Sixteen.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Ten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="149">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1029#1030#0" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
-                <element signature="e#1218#1219#0" expanded="true" />
-                <element signature="e#1272#1273#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignments/Multithreading/One/ThreadClass.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/Java8/Eleven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaII/Sixteen.java">
+        <entry file="file://$PROJECT_DIR$/src/Java8/Twelve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/util/stream/Collectors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="570" column="45" lean-forward="true" selection-start-line="570" selection-start-column="21" selection-end-line="570" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/util/function/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -252,30 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Collection/SpecialStack/Main.java" />
-        <option value="$PROJECT_DIR$/src/CollectionDemo/Nine.java" />
-        <option value="$PROJECT_DIR$/src/JavaII/First.java" />
-        <option value="$PROJECT_DIR$/src/Collection/Nine.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Second.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Fourth/Fourth.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Fourth/Four2.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Fourth/Four1.java" />
-        <option value="$PROJECT_DIR$/src/Java2/FifthssSingelton.java" />
-        <option value="$PROJECT_DIR$/src/Java2/FifthSingelton.java" />
-        <option value="$PROJECT_DIR$/src/Java2/FourSingelton.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Fifth.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Six.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Seven.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Eight.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Barista/Person.java" />
-        <option value="$PROJECT_DIR$/src/Java2/LibraryMS.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Furniture/Chair.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Furniture/Table.java" />
-        <option value="$PROJECT_DIR$/src/Java2/Third.java" />
-        <option value="$PROJECT_DIR$/src/Java2/ThirdTest.java" />
-        <option value="$PROJECT_DIR$/src/Collection/SpecialStack/SpecialStack.java" />
-        <option value="$PROJECT_DIR$/src/Java2/CustomException/CustomException.java" />
-        <option value="$PROJECT_DIR$/src/Java2/CustomException/Main.java" />
         <option value="$PROJECT_DIR$/src/Play/A.java" />
         <option value="$PROJECT_DIR$/src/Play/souvik.java" />
         <option value="$PROJECT_DIR$/src/Collection/Sixth.java" />
@@ -303,6 +244,30 @@
         <option value="$PROJECT_DIR$/src/Multithreading/Fourteen.java" />
         <option value="$PROJECT_DIR$/src/Multithreading/Fifteen.java" />
         <option value="$PROJECT_DIR$/src/Multithreading/Sixteen.java" />
+        <option value="$PROJECT_DIR$/Assignments/Collection/SpecialStack/SpecialStack.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Exercise.java" />
+        <option value="$PROJECT_DIR$/src/Java8/references.java" />
+        <option value="$PROJECT_DIR$/src/Java8/References.java" />
+        <option value="$PROJECT_DIR$/src/Second.java" />
+        <option value="$PROJECT_DIR$/src/Seven.java" />
+        <option value="$PROJECT_DIR$/src/HousePrice.java" />
+        <option value="$PROJECT_DIR$/src/Java2/Six.java" />
+        <option value="$PROJECT_DIR$/src/Nine.java" />
+        <option value="$PROJECT_DIR$/src/Java2/Eight.java" />
+        <option value="$PROJECT_DIR$/src/Java2/CustomException/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/Java2/CustomException/Main.java" />
+        <option value="$PROJECT_DIR$/src/Java8/First.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Second.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Third.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Four.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Five.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Six.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Seven.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Eight.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Nine.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Ten.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Twelve.java" />
+        <option value="$PROJECT_DIR$/src/Java8/Eleven.java" />
       </list>
     </option>
   </component>
@@ -327,7 +292,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -344,43 +308,50 @@
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
               <item name="First" type="462c0819:PsiDirectoryNode" />
               <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Multithreading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="First" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="First" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
               <item name="First" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="SpecialStack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="Java2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
               <item name="First" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="Java2" type="462c0819:PsiDirectoryNode" />
               <item name="Barista" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
               <item name="First" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Multithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSession1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
               <item name="First" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Play" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_11th_Answer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First" type="b2602c69:ProjectViewProjectNode" />
@@ -390,22 +361,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551157773025" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551437078500" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignments/Multithreading" />
+      <recent name="$PROJECT_DIR$/Assignments" />
+      <recent name="$PROJECT_DIR$/src/Java2/Barista" />
+      <recent name="$PROJECT_DIR$/Assignments/Collection" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Java2/Furniture" />
       <recent name="$PROJECT_DIR$/src/Java2/LibraryMS" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Java2/Barista" />
-      <recent name="$PROJECT_DIR$/Assignments/Collection" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -420,13 +394,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sixteen">
-    <configuration name="Fifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Fifteen" />
+  <component name="RunManager" selected="Application.Twelve">
+    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.Eight" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Fourteen" />
+    <configuration name="Eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.Eleven" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,12 +421,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sixteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Sixteen" />
+    <configuration name="Nine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.Nine" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,12 +434,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Thirteen" />
+    <configuration name="Ten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.Ten" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -474,11 +448,11 @@
       </method>
     </configuration>
     <configuration name="Twelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Twelve" />
+      <option name="MAIN_CLASS_NAME" value="Java8.Twelve" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,19 +461,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Eight" />
+      <item itemvalue="Application.Nine" />
+      <item itemvalue="Application.Ten" />
+      <item itemvalue="Application.Eleven" />
       <item itemvalue="Application.Twelve" />
-      <item itemvalue="Application.Thirteen" />
-      <item itemvalue="Application.Fourteen" />
-      <item itemvalue="Application.Fifteen" />
-      <item itemvalue="Application.Sixteen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sixteen" />
-        <item itemvalue="Application.Fifteen" />
-        <item itemvalue="Application.Fourteen" />
-        <item itemvalue="Application.Thirteen" />
         <item itemvalue="Application.Twelve" />
+        <item itemvalue="Application.Eleven" />
+        <item itemvalue="Application.Ten" />
+        <item itemvalue="Application.Nine" />
+        <item itemvalue="Application.Eight" />
       </list>
     </recent_temporary>
   </component>
@@ -519,17 +493,20 @@
       <workItem from="1550812079448" duration="1654000" />
       <workItem from="1550813850695" duration="39690000" />
       <workItem from="1551065615366" duration="15173000" />
-      <workItem from="1551116306728" duration="10713000" />
+      <workItem from="1551116306728" duration="12917000" />
+      <workItem from="1551172065470" duration="793000" />
+      <workItem from="1551333647851" duration="13868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108506000" />
+    <option name="totallyTimeSpent" value="125371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24621212" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -538,15 +515,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848485" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.67536706" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3284553" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32626426" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848485" weight="0.32626426" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848485" weight="0.49918434" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007576" side_tool="true" weight="0.5269168" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -610,178 +587,196 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Collection/SpecialStack/SpecialStack.java">
+    <entry file="file://$PROJECT_DIR$/src/Multithreading/Twelve.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="540">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/LMS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Furniture/Chair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Furniture/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Multithreading/Thirteen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Furniture/Table.java">
+    <entry file="file://$PROJECT_DIR$/src/Multithreading/Fourteen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="795">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="25" />
+          <folding>
+            <element signature="e#2249#2250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/Member.java">
+    <entry file="file://$PROJECT_DIR$/src/Multithreading/Fifteen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Eight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HousePrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/CustomException/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/CustomException/CustomException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Third.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Six.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Seven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Fourth/Four1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/FourSingelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Play/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Play/souvik.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Collection/Sixth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="480">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/One/ImplementsRunnable.java">
+    <entry file="file://$PROJECT_DIR$/src/Multithreading/Sixteen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/One/ThreadClass.java">
+    <entry file="file://$PROJECT_DIR$/Assignments/Multithreading/One/ThreadClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Collection/Sixth.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaII/Sixteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Collection/SpecialStack/SpecialStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/Barista/Barista.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/LibraryMS/Book.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/LibraryMS/Librarian.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/LibraryMS/Library.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/LibraryMS/LMS.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/Furniture/Chair.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/Furniture/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/Furniture/Furniture.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Java2/Barista/Order.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/references.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java2/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/References.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8Assignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fourth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="7" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HousePrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <folding>
+            <element signature="e#3033#3034#0" expanded="true" />
+            <element signature="e#3060#3061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -792,274 +787,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/LibraryMS/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Play/TestJoinMethod2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Two.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Three.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Third.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Four.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Five.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Sixth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Play/Mt.java">
+    <entry file="file://$PROJECT_DIR$/src/Java2/Six.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Seventh.java">
+    <entry file="file://$PROJECT_DIR$/src/Nine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="51" column="52" lean-forward="true" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Eight.java">
+    <entry file="file://$PROJECT_DIR$/src/Java2/Eight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Barista/Barista.java">
+    <entry file="file://$PROJECT_DIR$/src/Java2/Furniture/Furniture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Barista/Cashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Barista/CoffeeShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Barista/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java2/Barista/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Nine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Tenth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="7" column="5" selection-end-line="42" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Eleven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Twelve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Thirteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Fourteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="25" />
-          <folding>
-            <element signature="e#1608#1609#0" expanded="true" />
-            <element signature="e#1662#1663#0" expanded="true" />
-            <element signature="e#1788#1789#0" expanded="true" />
-            <element signature="e#1842#1843#0" expanded="true" />
-            <element signature="e#1968#1969#0" expanded="true" />
-            <element signature="e#2022#2023#0" expanded="true" />
-            <element signature="e#2148#2149#0" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaII/Sixteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Fifteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1276#1277#0" expanded="true" />
-            <element signature="e#1330#1331#0" expanded="true" />
-            <element signature="e#1465#1466#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Multithreading/Sixteen.java">
+    <entry file="file://$PROJECT_DIR$/src/Java2/CustomException/CustomException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java2/CustomException/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="34" column="88" lean-forward="true" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/Multithreading/One/ThreadClass.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/Java8/Four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Five.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Six.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Nine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Ten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="570" column="45" lean-forward="true" selection-start-line="570" selection-start-column="21" selection-end-line="570" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Twelve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java8/Eleven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

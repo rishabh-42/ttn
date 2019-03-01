@@ -6,5 +6,6 @@ public class CustomException extends Exception {
     public synchronized Throwable fillInStackTrace() {
         return null;
     }
+    //printStackTrace  read about it
 
 }

@@ -1,15 +1,15 @@
 public enum HousePrice {
+    AJNARA("ajnara");
+//    SUPERTECH(3525410),PANCHSHEEL(3614521);
 
-    AJNARA(5014000),SUPERTECH(3525410),PANCHSHEEL(3614521);
+    private String price;
 
-    private int price;
-
-    HousePrice(int price)
+    HousePrice(String s)
     {
-        this.price=price;
+        this.price=s;
     }
 
-    public int getPrice() {
+    public String getPrice() {
         return price;
     }
 }

@@ -4,8 +4,8 @@ public class Seven {
 
     static  {
         System.out.println("Printing in static block");
-        System.out.println("First Name : Rishabh" );
-        System.out.println("Last  Name : Rajput" );
+        System.out.println("First Name : Rishabh " + fname );
+        System.out.println("Last  Name : Rajput " + lname );
 
     }
 
