@@ -4,7 +4,7 @@ public class FourSingelton {
 
     private static FourSingelton fourSingelton = null;
 
-    public  int testVariable;
+    public volatile int testVariable;
 
     private FourSingelton(){
         testVariable=10;
@@ -14,7 +14,8 @@ public class FourSingelton {
     public static FourSingelton getInstance(){
 
         if(fourSingelton ==null){
-            fourSingelton = new FourSingelton();
+           fourSingelton = new FourSingelton();
+
 
         }
         return fourSingelton;
