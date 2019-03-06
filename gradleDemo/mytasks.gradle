@@ -1,0 +1,6 @@
+task demoTask {
+    doFirst{
+        println "demotask"
+    }
+
+}
